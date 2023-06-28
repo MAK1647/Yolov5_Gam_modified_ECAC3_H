@@ -1,11 +1,15 @@
 Luan Van Thac Si
 <space><space>
+
 1.Thay đổi Architecture Yolov5
 <space><space>
+
 Proposed model
  <space><space>
+ 
 Code change:
 <space><space>
+
 1.Model
 <space><space>
 Vị trí : yolov5/models/yolov5s.yaml(có thể chọn các version khác)
