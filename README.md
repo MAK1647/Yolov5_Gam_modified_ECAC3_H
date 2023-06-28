@@ -25,7 +25,7 @@ a.Vị trí : yolov5/models/common.py
 -Add class eca_layer(nn.Module):
 <space><space>
 
-        class ECAC3(nn.Module):
+-class ECAC3(nn.Module):
  <space><space>
  
 b.Vi trí : yolov5/models/yolo.py
@@ -51,6 +51,8 @@ b.Vi trí : yolov5/models/yolo.py
 
 4.Thêm hàm h-swish , shuffle
 <space><space>
+
 Vị trí yolov5/models/common.py
 <space><space>
+
 Add class h_swish , class h_sigmoid and def channel_shuffle
