@@ -1,0 +1,11 @@
+train: /content/gdrive/MyDrive/PenFudanDtabaseversion2/train/images  # 128 images
+val: /content/gdrive/MyDrive/PenFudanDtabaseversion2/val/images  # 128 images
+
+# train: /content/gdrive/MyDrive/CityScapes/City_scapes_v3/train/images
+# val: /content/gdrive/MyDrive/CityScapes/City_scapes_v3/val/images
+
+# number of classes
+nc: 2
+
+# class names
+names: ['PASpersonStanding', 'PASpersonWalking']
